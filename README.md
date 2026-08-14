@@ -1,18 +1,24 @@
-📜 A COMPLETELY REASONABLE AND TOTALLY RECIPROCAL TERMS OF REPOSITORY ACCESS
+# 📜 A COMPLETELY REASONABLE AND TOTALLY RECIPROCAL TERMS OF REPOSITORY ACCESS
 
-⚠️ NOTICE
+---
 
-BY OPENING, VIEWING, GLANCING AT, ACCESSING, TOUCHING, LICKING, CLICKING, COPYING, SCANNING, SEARCHING, SKIMMING, SIGHING AT, PERHAPS EVEN SIDE-EYEING, OR OTHERWISE INTERACTING WITH THIS REPOSITORY, including any sub-folders, documents, exhibits, screenshots, videos, raw data, or metadata contained therein (collectively, the “REPOSITORY”),
+## ⚠️ NOTICE
 
-YOU ACKNOWLEDGE AND AGREE THAT YOU HAVE ENCOUNTERED THESE TERMS AND EVERY VERSION OF THE TERMS THAT HAVE EVER EXISTED.
+> **BY OPENING, VIEWING, GLANCING AT, ACCESSING, TOUCHING, LICKING, CLICKING, COPYING, SCANNING, SEARCHING, SKIMMING, SIGHING AT, PERHAPS EVEN SIDE-EYEING, OR OTHERWISE INTERACTING WITH THIS REPOSITORY**, including any sub-folders, documents, exhibits, screenshots, videos, raw data, or metadata contained therein (collectively, the “REPOSITORY”),
 
-If you disagree, please stop reading immediately and return to whatever version of reality existed before you opened this document.
+> **YOU ACKNOWLEDGE AND AGREE THAT YOU HAVE ENCOUNTERED THESE TERMS AND EVERY VERSION OF THE TERMS THAT HAVE EVER EXISTED.**
 
-🧪 DISCLAIMER
+> **If you disagree, please stop reading immediately and return to whatever version of reality existed before you opened this document.**
+
+---
+
+## 🧪 DISCLAIMER
 
 Continued interaction with this Repository may expose you to more words, inconvenient questions, reality, and other unforeseen contractual phenomena.
 
-Proceed at your own risk.
+**Proceed at your own risk.**
+
+---
 
 📚 SECTION 1 — DEFINITIONS
 📁 1.1 “The Repository”
