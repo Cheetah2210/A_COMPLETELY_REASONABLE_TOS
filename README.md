@@ -4,11 +4,11 @@
 
 # ⚠️ NOTICE
 
-<p><strong>BY OPENING, VIEWING, GLANCING AT, ACCESSING, TOUCHING, LICKING, CLICKING, COPYING, SCANNING, SEARCHING, SKIMMING, SIGHING AT, PERHAPS EVEN SIDE-EYEING, OR OTHERWISE INTERACTING WITH THIS REPOSITORY</strong></p>
+<h2><strong>BY OPENING, VIEWING, GLANCING AT, ACCESSING, TOUCHING, LICKING, CLICKING, COPYING, SCANNING, SEARCHING, SKIMMING, SIGHING AT, PERHAPS EVEN SIDE-EYEING, OR OTHERWISE INTERACTING WITH THIS REPOSITORY</strong></h2>
 
-including any sub-folders, documents, exhibits, screenshots, videos, raw data, or metadata contained therein (collectively, the “REPOSITORY”),
+<p>including any sub-folders, documents, exhibits, screenshots, videos, raw data, or metadata contained therein (collectively, the “REPOSITORY”),</p>
 
-> **YOU ACKNOWLEDGE AND AGREE THAT YOU HAVE ENCOUNTERED THESE TERMS AND EVERY VERSION OF THE TERMS THAT HAVE EVER EXISTED.**
+<h2><strong>YOU ACKNOWLEDGE AND AGREE THAT YOU HAVE ENCOUNTERED THESE TERMS AND EVERY VERSION OF THE TERMS THAT HAVE EVER EXISTED.</strong></h2>
 
 > **If you disagree, please stop reading immediately and return to whatever version of reality existed before you opened this document.**
 
