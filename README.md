@@ -4,11 +4,7 @@
 
 # ⚠️ NOTICE
 
-<p align="center">
-<strong>
-BY OPENING, VIEWING, GLANCING AT, ACCESSING, TOUCHING, LICKING, CLICKING, COPYING, SCANNING, SEARCHING, SKIMMING, SIGHING AT, PERHAPS EVEN SIDE-EYEING, OR OTHERWISE INTERACTING WITH THIS REPOSITORY
-</strong>
-</p>
+<p><strong>BY OPENING, VIEWING, GLANCING AT, ACCESSING, TOUCHING, LICKING, CLICKING, COPYING, SCANNING, SEARCHING, SKIMMING, SIGHING AT, PERHAPS EVEN SIDE-EYEING, OR OTHERWISE INTERACTING WITH THIS REPOSITORY</strong></p>
 
 including any sub-folders, documents, exhibits, screenshots, videos, raw data, or metadata contained therein (collectively, the “REPOSITORY”),
 
@@ -18,7 +14,7 @@ including any sub-folders, documents, exhibits, screenshots, videos, raw data, o
 
 ---
 
-## 🧪 DISCLAIMER
+# 🧪 DISCLAIMER
 
 Continued interaction with this Repository may expose you to more words, inconvenient questions, reality, and other unforeseen contractual phenomena.
 
@@ -200,11 +196,13 @@ At some point, clicking, typing, and coding becomes labor.
 
 ---
 
-## 🔄 SECTION 5 — THE SUPPORT LOOP PROVISION
+# 🔄 SECTION 5 — THE SUPPORT LOOP PROVISION
 
 ### 🤖 5.1 Automated Circularity
 
 If a Consumer reports a technical failure and is repeatedly directed through automated support systems that return the Consumer to the same unresolved condition, additional use shall not establish that the underlying problem has been resolved.
+
+---
 
 ### ♻️ 5.2 The Infinite Loop Doctrine
 
@@ -235,7 +233,7 @@ It merely constitutes another lap.
 
 ---
 
-## 🌐 SECTION 6 — ACCOUNT RESTORATION
+# 🌐 SECTION 6 — ACCOUNT RESTORATION
 
 ### 🔧 6.1 Restoration Means Restoration
 
@@ -244,6 +242,8 @@ For purposes of this Repository, “restoration” shall not mean:
 > “We made one visible screen look approximately normal.”
 
 **“Mostly working”** and **“actually restored”** are different concepts.
+
+---
 
 ### 🌎 6.2 The Multi-language Interface Clause
 
@@ -255,7 +255,7 @@ The Consumer would simply prefer one they understand.
 
 ---
 
-## 🔐 SECTION 7 — SECURITY AND PRIVACY
+# 🔐 SECTION 7 — SECURITY AND PRIVACY
 
 ### 📨 7.1 The “I Provided It Because You Asked” Provision
 
@@ -269,11 +269,13 @@ That seems sufficiently complicated already.
 
 ---
 
-## ⚖️ SECTION 8 — MUTUAL LIMITATIONS OF LIABILITY
+# ⚖️ SECTION 8 — MUTUAL LIMITATIONS OF LIABILITY
 
 ### 8.1 The Great Equalizer
 
 Any limitation of liability, disclaimer, waiver, procedural requirement, arbitration provision, notice provision, or other contractual mechanism asserted by a Corporate Entity shall not relieve that Corporate Entity of identifying the agreement it contends actually imposed that obligation.
+
+---
 
 ### 🧲 8.2 No Special Corporate Physics
 
@@ -289,7 +291,7 @@ is sufficient reasoning for one side, the corresponding question remains:
 
 ---
 
-## 💃 SECTION 9 — THE HOKEY POKEY CLAUSE — Why not?
+# 💃 SECTION 9 — THE HOKEY POKEY CLAUSE — Why not?
 
 Because certain contractual theories occasionally require extraordinary feats of interpretation, any Corporate Entity asserting that a particular historical agreement governed the Consumer is respectfully invited to perform the following ritual:
 
@@ -309,7 +311,7 @@ It shall merely deprive the argument of approximately **37% of its comedic value
 
 ---
 
-## 🪄 SECTION 10 — CORPORATE MAGIC
+# 🪄 SECTION 10 — CORPORATE MAGIC
 
 The mere existence of a document labeled:
 
@@ -329,7 +331,7 @@ The Consumer respectfully declines to participate in:
 
 ---
 
-## ✂️ SECTION 11 — SEVERABILITY
+# ✂️ SECTION 11 — SEVERABILITY
 
 If any provision of these Terms is determined to be ridiculous, excessive, unenforceable, or otherwise incapable of surviving contact with an actual courtroom, that provision shall be severed.
 
@@ -337,7 +339,7 @@ The remaining provisions shall survive for the limited purpose of reminding ever
 
 ---
 
-## 📢 SECTION 12 — FINAL ACKNOWLEDGMENT
+# 📢 SECTION 12 — FINAL ACKNOWLEDGMENT
 
 The Consumer does not contend that Terms of Service are unimportant.
 
@@ -377,7 +379,6 @@ And if a Corporate Entity insists upon enforcing the rules, it should at least b
 | **Estimated Customer Support Wait Time** | ⏳ **What’s your estimated lifespan?** |
 
 *Thank you for your patience.*
-
 
 ---
 
