@@ -204,7 +204,16 @@ If a Consumer reports a technical failure and is repeatedly directed through aut
 
 A support process consisting of:
 
-> **Report Problem → General Non-Response → Review → Same Problem → Report Problem Again**
+Report Problem
+      ↓
+General Non-Response
+      ↓
+Review
+      ↓
+Same Problem
+      ↓
+Report Problem Again
+      ↺
 
 shall be known, for purposes of this satire, as:
 
@@ -344,64 +353,22 @@ And if a Corporate Entity insists upon enforcing the rules, it should at least b
 
 # 🧾 END USER TERMS — VERSION 3.14159
 
-<table>
-<thead>
-<tr>
-<th>Term</th>
-<th>Applicable Provision</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>Effective</strong></td>
-<td>Immediately upon the Consumer’s inevitable decision to keep reading.</td>
-</tr>
-<tr>
-<td><strong>Retroactive Effect</strong></td>
-<td>🚫 Absolutely not.</td>
-</tr>
-<tr>
-<td><strong>Customer Support</strong></td>
-<td>🤖 What support? We’re not the support drones you’re looking for. Move along.</td>
-</tr>
-<tr>
-<td><strong>Time Machine</strong></td>
-<td>🚫 Not included.</td>
-</tr>
-<tr>
-<td><strong>Flux Capacitor</strong></td>
-<td>🚫 Not included.</td>
-</tr>
-<tr>
-<td><strong>Retroactive Effect</strong></td>
-<td>🚫 Still absolutely not.</td>
-</tr>
-<tr>
-<td><strong>Side-Eye</strong></td>
-<td>👀 Permitted.</td>
-</tr>
-<tr>
-<td><strong>Hokey Pokey</strong></td>
-<td>💃 Mandatory upon assertion of contractual time travel.</td>
-</tr>
-<tr>
-<td><strong>Historical Records Department</strong></td>
-<td>🏺 Currently excavating.</td>
-</tr>
-<tr>
-<td><strong>Archaeological Equipment</strong></td>
-<td>🧭 Recommended.</td>
-</tr>
-<tr>
-<td><strong>Whitehat Reports</strong></td>
-<td>🗑️ Thank you for your submission. Your security reports have been discarded. However, we have changed the name on the homework you did and consider the matter addressed.</td>
-</tr>
-<tr>
-<td><strong>Estimated Customer Support Wait Time</strong></td>
-<td>⏳ <strong>What’s your estimated lifespan?</strong></td>
-</tr>
-</tbody>
-</table>
+| **Item** | **Applicable Provision** |
+|---|---|
+| **Effective** | Immediately upon the Consumer’s inevitable decision to keep reading. |
+| **Retroactive Effect** | 🚫 Absolutely not. |
+| **Customer Support** | 🤖 What support? We’re not the support drones you’re looking for. Move along. |
+| **Time Machine** | 🚫 Not included. |
+| **Flux Capacitor** | 🚫 Not included. |
+| **Retroactive Effect** | 🚫 Still absolutely not. |
+| **Side-Eye** | 👀 Permitted. |
+| **Hokey Pokey** | 💃 Mandatory upon assertion of contractual time travel. |
+| **Historical Records Department** | 🏺 Currently excavating. |
+| **Archaeological Equipment** | 🧭 Recommended. |
+| **Whitehat Reports** | 🗑️ Thank you for your submission. Your security reports have been discarded. However, we have changed the name on the homework you did and consider the matter addressed. |
+| **Estimated Customer Support Wait Time** | ⏳ **What’s your estimated lifespan?** |
+
+*Thank you for your patience.*
 
 > *Thank you for your patience.*
 
