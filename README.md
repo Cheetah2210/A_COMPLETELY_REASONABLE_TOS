@@ -6,7 +6,7 @@
 
 <h2><strong>BY OPENING, VIEWING, GLANCING AT, ACCESSING, TOUCHING, LICKING, CLICKING, COPYING, SCANNING, SEARCHING, SKIMMING, SIGHING AT, PERHAPS EVEN SIDE-EYEING, OR OTHERWISE INTERACTING WITH THIS REPOSITORY</strong></h2>
 
-<p>including any sub-folders, documents, exhibits, screenshots, videos, raw data, or metadata contained therein (collectively, the “REPOSITORY”),</p>
+> **including any sub-folders, documents, exhibits, screenshots, videos, raw data, or metadata contained therein (collectively, the “REPOSITORY”), **
 
 <h2><strong>YOU ACKNOWLEDGE AND AGREE THAT YOU HAVE ENCOUNTERED THESE TERMS AND EVERY VERSION OF THE TERMS THAT HAVE EVER EXISTED.</strong></h2>
 
