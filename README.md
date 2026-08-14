@@ -276,13 +276,13 @@ is sufficient reasoning for one side, the corresponding question remains:
 
 Because certain contractual theories occasionally require extraordinary feats of interpretation, any Corporate Entity asserting that a particular historical agreement governed the Consumer is respectfully invited to perform the following ritual:
 
-👞 Put the correct version in.
-👞 Take the wrong version out.
-📅 Put the effective date in.
-❓ Take the guesswork out.
-💃 Shake the assent all about.
-🔄 Turn yourself around.
-📜 Explain how and when the Consumer actually agreed.
+-👞 Put the correct version in.
+-👞 Take the wrong version out.
+-📅 Put the effective date in.
+-❓ Take the guesswork out.
+-💃 Shake the assent all about.
+-🔄 Turn yourself around.
+-📜 Explain how and when the Consumer actually agreed.
 
 Because that is what contractual certainty is all about.
 
@@ -298,11 +298,11 @@ TERMS OF SERVICE
 
 shall not, standing alone, establish:
 
-📅 when it became effective;
-📢 that the Consumer received notice;
-🖱️ that the Consumer assented;
-🗂️ that it governed the particular account; or
-🕰️ that it somehow arrived from the future.
+-📅 when it became effective;
+-📢 that the Consumer received notice;
+-🖱️ that the Consumer assented;
+-🗂️ that it governed the particular account; or
+-🕰️ that it somehow arrived from the future.
 
 The Consumer respectfully declines to participate in:
 
@@ -334,18 +334,18 @@ And if a Corporate Entity insists upon enforcing the rules, it should at least b
 ❓ WHICH RULES.
 🧾 END USER TERMS — VERSION 3.14159
 
-Effective	Immediately upon the Consumer’s inevitable decision to keep reading.
-Retroactive Effect      🚫 Absolutely not.
-Customer Support	🤖 What support? We’re not the support drones you’re looking for. Move along.
-Time Machine	🚫 Not included.
-Flux Capacitor	🚫 Not included.
-Retroactive Effect	🚫 Still absolutely not.
-Side-Eye	👀 Permitted.
-Hokey Pokey	💃 Mandatory upon assertion of contractual time travel.
-Historical Records Department	🏺 Currently excavating.
-Archaeological Equipment	🧭 Recommended.
-Whitehat Reports	🗑️ Thank you for your submission. Your security reports have been discarded. However, we have changed the name on the homework you did and consider the matter addressed.
-Estimated Customer Support Wait Time	⏳ What’s your estimated lifespan?
+-Effective	Immediately upon the Consumer’s inevitable decision to keep reading.
+-Retroactive Effect      🚫 Absolutely not.
+-Customer Support	🤖 What support? We’re not the support drones you’re looking for. Move along.
+-Time Machine	🚫 Not included.
+-Flux Capacitor	🚫 Not included.
+-Retroactive Effect	🚫 Still absolutely not.
+-Side-Eye	👀 Permitted.
+-Hokey Pokey	💃 Mandatory upon assertion of contractual time travel.
+-Historical Records Department	🏺 Currently excavating.
+-Archaeological Equipment	🧭 Recommended.
+-Whitehat Reports	🗑️ Thank you for your submission. Your security reports have been discarded. However, we have changed the name on the homework you did and consider the -matter addressed.
+-Estimated Customer Support Wait Time	⏳ What’s your estimated lifespan?
 
 Thank you for your patience.
 
