@@ -194,49 +194,41 @@ At some point, clicking, typing, and coding becomes labor.
 
 ---
 
-# 🔄 SECTION 5 — THE SUPPORT LOOP PROVISION
+## 🔄 SECTION 5 — THE SUPPORT LOOP PROVISION
 
 ### 🤖 5.1 Automated Circularity
 
 If a Consumer reports a technical failure and is repeatedly directed through automated support systems that return the Consumer to the same unresolved condition, additional use shall not establish that the underlying problem has been resolved.
 
----
-
 ### ♻️ 5.2 The Infinite Loop Doctrine
 
 A support process consisting of:
 
-Report Problem
-      ↓
-General Non-Response
-      ↓
-Review
-      ↓
-Same Problem
-      ↓
-Report Problem Again
-      ↺
+> **Report Problem → General Non-Response → Review → Same Problem → Report Problem Again**
 
 shall be known, for purposes of this satire, as:
 
-🔄 THE INFINITE SUPPORT LOOP™
+> 🔄 **THE INFINITE SUPPORT LOOP™**
 
 Completion of the loop does not constitute remediation.
 
 It merely constitutes another lap.
 
-🏃 This is cardio.
+🏃 **This is cardio.**
 
-🌐 SECTION 6 — ACCOUNT RESTORATION
-🔧 6.1 Restoration Means Restoration
+---
+
+## 🌐 SECTION 6 — ACCOUNT RESTORATION
+
+### 🔧 6.1 Restoration Means Restoration
 
 For purposes of this Repository, “restoration” shall not mean:
 
-“We made one visible screen look approximately normal.”
+> “We made one visible screen look approximately normal.”
 
-“Mostly working” and “actually restored” are different concepts.
+**“Mostly working”** and **“actually restored”** are different concepts.
 
-🌎 6.2 The Multi-language Interface Clause
+### 🌎 6.2 The Multi-language Interface Clause
 
 If portions of the Consumer’s account unexpectedly remain in another language after repeated attempts at correction, the Consumer may identify this phenomenon without being accused of demanding perfection.
 
@@ -244,76 +236,91 @@ The Consumer is not asking the account to learn Latin.
 
 The Consumer would simply prefer one they understand.
 
-🔐 SECTION 7 — SECURITY AND PRIVACY
-📨 7.1 The “I Provided It Because You Asked” Provision
+---
+
+## 🔐 SECTION 7 — SECURITY AND PRIVACY
+
+### 📨 7.1 The “I Provided It Because You Asked” Provision
 
 If a Consumer provides sensitive information because a Corporate Entity’s support process requests it, that shall not automatically mean:
 
-“Congratulations. You have now surrendered every reasonable expectation concerning it.”
+> “Congratulations. You have now surrendered every reasonable expectation concerning it.”
 
 Information provided for assistance remains information provided for assistance.
 
 That seems sufficiently complicated already.
 
-⚖️ SECTION 8 — MUTUAL LIMITATIONS OF LIABILITY
-8.1 The Great Equalizer
+---
+
+## ⚖️ SECTION 8 — MUTUAL LIMITATIONS OF LIABILITY
+
+### 8.1 The Great Equalizer
 
 Any limitation of liability, disclaimer, waiver, procedural requirement, arbitration provision, notice provision, or other contractual mechanism asserted by a Corporate Entity shall not relieve that Corporate Entity of identifying the agreement it contends actually imposed that obligation.
 
-🧲 8.2 No Special Corporate Physics
+### 🧲 8.2 No Special Corporate Physics
 
 The laws of contract shall not contain separate physical laws for Corporate Entities and ordinary human Consumers.
 
 If:
 
-“You agreed because you continued using the service”
+> “You agreed because you continued using the service”
 
 is sufficient reasoning for one side, the corresponding question remains:
 
-“Okay. Which agreement?”
+> **“Okay. Which agreement?”**
 
-💃 SECTION 9 — THE HOKEY POKEY CLAUSE — Why not?
+---
+
+## 💃 SECTION 9 — THE HOKEY POKEY CLAUSE — Why not?
 
 Because certain contractual theories occasionally require extraordinary feats of interpretation, any Corporate Entity asserting that a particular historical agreement governed the Consumer is respectfully invited to perform the following ritual:
 
--👞 Put the correct version in.
--👞 Take the wrong version out.
--📅 Put the effective date in.
--❓ Take the guesswork out.
--💃 Shake the assent all about.
--🔄 Turn yourself around.
--📜 Explain how and when the Consumer actually agreed.
+- 👞 **Put the correct version in.**
+- 👞 **Take the wrong version out.**
+- 📅 **Put the effective date in.**
+- ❓ **Take the guesswork out.**
+- 💃 **Shake the assent all about.**
+- 🔄 **Turn yourself around.**
+- 📜 **Explain how and when the Consumer actually agreed.**
 
 Because that is what contractual certainty is all about.
 
 Failure to perform the Hokey Pokey shall not invalidate a legitimate contractual argument.
 
-It shall merely deprive the argument of approximately 37% of its comedic value.
+It shall merely deprive the argument of approximately **37% of its comedic value.**
 
-🪄 SECTION 10 — CORPORATE MAGIC
+---
+
+## 🪄 SECTION 10 — CORPORATE MAGIC
 
 The mere existence of a document labeled:
 
-TERMS OF SERVICE
+> **TERMS OF SERVICE**
 
 shall not, standing alone, establish:
 
--📅 when it became effective;
--📢 that the Consumer received notice;
--🖱️ that the Consumer assented;
--🗂️ that it governed the particular account; or
--🕰️ that it somehow arrived from the future.
+- 📅 when it became effective;
+- 📢 that the Consumer received notice;
+- 🖱️ that the Consumer assented;
+- 🗂️ that it governed the particular account; or
+- 🕰️ that it somehow arrived from the future.
 
 The Consumer respectfully declines to participate in:
 
-📄🕰️ PDF-BASED TIME TRAVEL.
-✂️ SECTION 11 — SEVERABILITY
+> 📄🕰️ **PDF-BASED TIME TRAVEL.**
+
+---
+
+## ✂️ SECTION 11 — SEVERABILITY
 
 If any provision of these Terms is determined to be ridiculous, excessive, unenforceable, or otherwise incapable of surviving contact with an actual courtroom, that provision shall be severed.
 
 The remaining provisions shall survive for the limited purpose of reminding everyone that this document was, in fact, a joke.
 
-📢 SECTION 12 — FINAL ACKNOWLEDGMENT
+---
+
+## 📢 SECTION 12 — FINAL ACKNOWLEDGMENT
 
 The Consumer does not contend that Terms of Service are unimportant.
 
@@ -331,32 +338,87 @@ If digital property matters, digital does not mean imaginary.
 
 And if a Corporate Entity insists upon enforcing the rules, it should at least be prepared to identify:
 
-❓ WHICH RULES.
-🧾 END USER TERMS — VERSION 3.14159
+> ❓ **WHICH RULES.**
 
--Effective	Immediately upon the Consumer’s inevitable decision to keep reading.
--Retroactive Effect      🚫 Absolutely not.
--Customer Support	🤖 What support? We’re not the support drones you’re looking for. Move along.
--Time Machine	🚫 Not included.
--Flux Capacitor	🚫 Not included.
--Retroactive Effect	🚫 Still absolutely not.
--Side-Eye	👀 Permitted.
--Hokey Pokey	💃 Mandatory upon assertion of contractual time travel.
--Historical Records Department	🏺 Currently excavating.
--Archaeological Equipment	🧭 Recommended.
--Whitehat Reports	🗑️ Thank you for your submission. Your security reports have been discarded. However, we have changed the name on the homework you did and consider the -matter addressed.
--Estimated Customer Support Wait Time	⏳ What’s your estimated lifespan?
+---
 
-Thank you for your patience.
+# 🧾 END USER TERMS — VERSION 3.14159
 
-🚨 FINAL NOTICE
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Applicable Provision</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Effective</strong></td>
+<td>Immediately upon the Consumer’s inevitable decision to keep reading.</td>
+</tr>
+<tr>
+<td><strong>Retroactive Effect</strong></td>
+<td>🚫 Absolutely not.</td>
+</tr>
+<tr>
+<td><strong>Customer Support</strong></td>
+<td>🤖 What support? We’re not the support drones you’re looking for. Move along.</td>
+</tr>
+<tr>
+<td><strong>Time Machine</strong></td>
+<td>🚫 Not included.</td>
+</tr>
+<tr>
+<td><strong>Flux Capacitor</strong></td>
+<td>🚫 Not included.</td>
+</tr>
+<tr>
+<td><strong>Retroactive Effect</strong></td>
+<td>🚫 Still absolutely not.</td>
+</tr>
+<tr>
+<td><strong>Side-Eye</strong></td>
+<td>👀 Permitted.</td>
+</tr>
+<tr>
+<td><strong>Hokey Pokey</strong></td>
+<td>💃 Mandatory upon assertion of contractual time travel.</td>
+</tr>
+<tr>
+<td><strong>Historical Records Department</strong></td>
+<td>🏺 Currently excavating.</td>
+</tr>
+<tr>
+<td><strong>Archaeological Equipment</strong></td>
+<td>🧭 Recommended.</td>
+</tr>
+<tr>
+<td><strong>Whitehat Reports</strong></td>
+<td>🗑️ Thank you for your submission. Your security reports have been discarded. However, we have changed the name on the homework you did and consider the matter addressed.</td>
+</tr>
+<tr>
+<td><strong>Estimated Customer Support Wait Time</strong></td>
+<td>⏳ <strong>What’s your estimated lifespan?</strong></td>
+</tr>
+</tbody>
+</table>
 
-BY READING THIS DOCUMENT, YOU EXPRESSLY ACKNOWLEDGE THAT YOU HAVE READ THIS DOCUMENT.
+> *Thank you for your patience.*
 
-BY CONTINUING TO READ THIS DOCUMENT, YOU EXPRESSLY AGREE THAT YOU HAVE READ THE PORTION YOU HAVE READ WHEN YOU READ IT.
+---
 
-BY REACHING THE END OF THIS DOCUMENT, YOU ACKNOWLEDGE THAT YOU HAVE REACHED THE END OF THIS DOCUMENT.
+# 🚨 FINAL NOTICE
 
-🎭 THIS DOCUMENT IS OBVIOUSLY SATIRE.
+**BY READING THIS DOCUMENT, YOU EXPRESSLY ACKNOWLEDGE THAT YOU HAVE READ THIS DOCUMENT.**
+
+**BY CONTINUING TO READ THIS DOCUMENT, YOU EXPRESSLY AGREE THAT YOU HAVE READ THE PORTION YOU HAVE READ WHEN YOU READ IT.**
+
+**BY REACHING THE END OF THIS DOCUMENT, YOU ACKNOWLEDGE THAT YOU HAVE REACHED THE END OF THIS DOCUMENT.**
+
 <br>
-👀 OR IS IT?
+
+🎭 **THIS DOCUMENT IS OBVIOUSLY SATIRE.**
+
+<br>
+
+👀 **OR IS IT?**
