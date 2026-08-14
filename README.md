@@ -26,13 +26,19 @@ Continued interaction with this Repository may expose you to more words, inconve
 
 “The Repository” means what you are potentially reading or licking if that’s your thing… Plus, all other materials contained therein.
 
+---
+
 ### 🏢 1.2 “Corporate Entity”
 
 “Corporate Entity” means any sufficiently large organization possessing unconscionable Terms of Service, multiple departments, automated support systems, extraordinary confidence in its own Terms of Service, and absolutely no moral compass whatsoever.
 
+---
+
 ### 👤 1.3 “Consumer”
 
 “Consumer” means an actual human being who uses a service, owns or maintains digital property, certainly has legal rights, and occasionally has the audacity to ask what the contract actually says.
+
+---
 
 ### 🪄 1.4 “Retroactive Contractual Magic”
 
@@ -66,8 +72,10 @@ The applicable version should identify:
 - 🖱️ how assent was allegedly obtained; and
 - ❓ why that particular version supposedly governed the Consumer.
 
-> 🔍 **THE “WHICH TERMS?” CLAUSE.**
->
+This provision shall be known as:
+
+> **THE “WHICH TERMS?” CLAUSE.**
+
 > *It is revolutionary.*
 
 ---
@@ -106,7 +114,7 @@ The Consumer assumes no responsibility for paradoxes, temporal displacement, alt
 
 The Consumer further declines to be responsible for any *Back to the Future* situation arising from corporate recordkeeping.
 
-**Great Scott.**
+> **Great Scott.**
 
 ---
 
@@ -128,11 +136,15 @@ Any attempt to establish otherwise shall be deemed **Temporal Contractual Litiga
 
 Nothing in this Repository authorizes a Corporate Entity to retroactively rewrite the historical terms of a relationship merely because a later version is more convenient during litigation.
 
+---
+
 ### 🗓️ 3.2 Historical Evidence
 
 Where the dispute concerns what contractual terms applied at a particular point in time, the parties should identify the terms actually applicable during that period.
 
 > Not whichever document happens to be wearing the nicest litigation suit.
+
+---
 
 ### 🏺 3.3 The Archaeological Provision
 
@@ -150,6 +162,8 @@ This is a lawsuit.
 
 The Consumer’s digital property shall not be treated as disposable merely because it exists on a digital platform rather than inside a physical filing cabinet.
 
+---
+
 ### 📱 4.2 The “It’s all digital” Provision
 
 For purposes of this Repository, the phrase “it’s just digital” shall have no magical property-destroying effect.
@@ -165,6 +179,8 @@ For purposes of this Repository, the phrase “it’s just digital” shall have
 🗄️ Account history remains account history.
 
 > **Digital does not mean imaginary.**
+
+---
 
 ### ⏳ 4.3 The Lost Time Clause
 
@@ -183,6 +199,8 @@ At some point, clicking, typing, and coding becomes labor.
 ### 🤖 5.1 Automated Circularity
 
 If a Consumer reports a technical failure and is repeatedly directed through automated support systems that return the Consumer to the same unresolved condition, additional use shall not establish that the underlying problem has been resolved.
+
+---
 
 ### ♻️ 5.2 The Infinite Loop Doctrine
 
@@ -208,7 +226,6 @@ Completion of the loop does not constitute remediation.
 It merely constitutes another lap.
 
 🏃 This is cardio.
----
 
 🌐 SECTION 6 — ACCOUNT RESTORATION
 🔧 6.1 Restoration Means Restoration
@@ -316,9 +333,9 @@ And if a Corporate Entity insists upon enforcing the rules, it should at least b
 
 ❓ WHICH RULES.
 🧾 END USER TERMS — VERSION 3.14159
-🧾 Item	📌 Status
+
 Effective	Immediately upon the Consumer’s inevitable decision to keep reading.
-Retroactive Effect	🚫 Absolutely not.
+Retroactive Effect      🚫 Absolutely not.
 Customer Support	🤖 What support? We’re not the support drones you’re looking for. Move along.
 Time Machine	🚫 Not included.
 Flux Capacitor	🚫 Not included.
