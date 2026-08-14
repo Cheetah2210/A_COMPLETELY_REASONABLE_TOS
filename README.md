@@ -204,6 +204,7 @@ If a Consumer reports a technical failure and is repeatedly directed through aut
 
 A support process consisting of:
 
+```text
 Report Problem
       ↓
 General Non-Response
@@ -214,6 +215,7 @@ Same Problem
       ↓
 Report Problem Again
       ↺
+```
 
 shall be known, for purposes of this satire, as:
 
@@ -353,7 +355,7 @@ And if a Corporate Entity insists upon enforcing the rules, it should at least b
 
 # 🧾 END USER TERMS — VERSION 3.14159
 
-| **Item** | **Applicable Provision** |
+| **Term** | **Applicable Provision** |
 |---|---|
 | **Effective** | Immediately upon the Consumer’s inevitable decision to keep reading. |
 | **Retroactive Effect** | 🚫 Absolutely not. |
