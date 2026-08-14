@@ -370,7 +370,6 @@ And if a Corporate Entity insists upon enforcing the rules, it should at least b
 
 *Thank you for your patience.*
 
-> *Thank you for your patience.*
 
 ---
 
